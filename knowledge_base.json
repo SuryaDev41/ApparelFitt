@@ -1,0 +1,198 @@
+[
+  {
+    "id": 1,
+    "topic": "hourglass-body-shape",
+    "question": "How should an hourglass body shape dress?",
+    "tags": ["body shape", "hourglass", "fit", "silhouette", "proportion"],
+    "answer": "**Hourglass — balanced bust and hip with a defined waist**\n\n- **Goal:** follow the waist without adding bulk at the middle.\n- **Wear:** wrap tops and dresses, shaped/single-button blazers, high-rise straight or tapered bottoms, belted looks.\n- **Fabrics:** medium-weight with a little structure so they skim rather than cling.\n- **Avoid:** boxy, oversized layers that hide the waist, and stiff volume at the hips.\n- **Tip:** a half-tuck or thin belt re-establishes the waistline instantly."
+  },
+  {
+    "id": 2,
+    "topic": "pear-triangle-body-shape",
+    "question": "How should a pear or triangle body shape dress?",
+    "tags": ["body shape", "pear", "triangle", "fit", "balance"],
+    "answer": "**Triangle / Pear — hip is the widest point**\n\n- **Goal:** draw the eye upward and broaden the shoulder line for balance.\n- **Wear:** structured or lightly padded shoulders, boat/wide necklines, brighter or textured tops, clean dark straight-leg bottoms.\n- **Fabrics:** keep lower-body fabrics smooth and matte; save texture and pattern for the top half.\n- **Avoid:** skinny bottoms with plain tops, and detailing (pockets, prints) concentrated at the hip.\n- **Tip:** a top that ends at the hip bone, not mid-hip, keeps the line clean."
+  },
+  {
+    "id": 3,
+    "topic": "inverted-triangle-body-shape",
+    "question": "How should an inverted triangle body shape dress?",
+    "tags": ["body shape", "inverted triangle", "shoulders", "balance", "fit"],
+    "answer": "**Inverted triangle — shoulders broader than hips**\n\n- **Goal:** soften the shoulder line and add visual weight lower down.\n- **Wear:** relaxed shoulder construction, V and scoop necklines, straight or fuller/tapered trousers, wider-leg denim, A-line skirts.\n- **Fabrics:** softer, draping fabrics up top; a touch more volume or texture on the bottom.\n- **Avoid:** shoulder pads, halters and heavy chest detailing that widen the top further.\n- **Tip:** darker tops with lighter or patterned bottoms rebalance the proportions."
+  },
+  {
+    "id": 4,
+    "topic": "rectangle-body-shape",
+    "question": "How should a rectangle or straight body shape dress?",
+    "tags": ["body shape", "rectangle", "straight", "waist", "definition"],
+    "answer": "**Rectangle / Straight — bust, waist and hip fairly even**\n\n- **Goal:** create curves and a defined waist while keeping the silhouette easy.\n- **Wear:** tailored layers, belts, peplum or wrap details, half-tucks, high-rise bottoms, layering that adds dimension.\n- **Fabrics:** structured pieces that hold a shape; contrast textures between top and bottom.\n- **Avoid:** shapeless straight-cut tunics that echo the straight line.\n- **Tip:** a cropped or open jacket over a fitted base fakes an hourglass line."
+  },
+  {
+    "id": 5,
+    "topic": "apple-oval-body-shape",
+    "question": "How should an apple or oval body shape dress?",
+    "tags": ["body shape", "apple", "oval", "vertical line", "fit"],
+    "answer": "**Oval / Apple — weight carried around the midsection**\n\n- **Goal:** create a long, clean vertical line and define the shoulders and legs.\n- **Wear:** open necklines, softly structured layers that skim the middle, straight or gently tapered trousers, monochrome columns of colour.\n- **Fabrics:** medium-weight with structure — nothing clingy or overly stiff.\n- **Avoid:** tight waistbands, cropped boxy tops and belts that cut across the middle.\n- **Tip:** an open long-line jacket or cardigan frames the torso and adds vertical length."
+  },
+  {
+    "id": 6,
+    "topic": "blazer-fit",
+    "question": "How should a blazer or suit jacket fit?",
+    "tags": ["fit", "blazer", "jacket", "suit", "tailoring"],
+    "answer": "**How a blazer should fit**\n\n- **Shoulders:** the seam ends exactly at your shoulder bone — this is the one thing tailoring cannot fix, so buy for the shoulders.\n- **Chest:** you can slide a flat hand under the lapel; no X-shaped pulling at the button.\n- **Sleeves:** end at the wrist bone, showing about 1 cm of shirt cuff.\n- **Length:** roughly covers the seat and curls under your cupped fingers.\n- **Button rule:** fasten the top button (two-button) or middle button (three-button); never the bottom one."
+  },
+  {
+    "id": 7,
+    "topic": "dress-shirt-fit",
+    "question": "How should a dress shirt fit?",
+    "tags": ["fit", "shirt", "dress shirt", "collar", "tailoring"],
+    "answer": "**How a dress shirt should fit**\n\n- **Collar:** one to two fingers fit between collar and neck when buttoned.\n- **Shoulders:** seam sits at the edge of your shoulder.\n- **Body:** trim but not straining at the buttons; a little taper avoids ballooning when tucked.\n- **Sleeves:** cuff reaches the base of the thumb so it stays put when you raise your arm.\n- **Length:** long enough to stay tucked when you move; untucked casual shirts should end mid-fly."
+  },
+  {
+    "id": 8,
+    "topic": "trouser-jeans-fit",
+    "question": "How should trousers and jeans fit?",
+    "tags": ["fit", "trousers", "jeans", "denim", "rise", "break"],
+    "answer": "**How trousers and jeans should fit**\n\n- **Waist:** sits without a belt straining or gaping at the back.\n- **Seat & thigh:** smooth, no pulling wrinkles; you can pinch a little fabric.\n- **Rise:** mid-rise flatters most; higher rise lengthens the leg and defines the waist.\n- **Break:** a slight to no break (a small dimple at the hem) looks modern and clean.\n- **Denim cuts:** slim and straight are the most versatile; tapered balances a fuller thigh."
+  },
+  {
+    "id": 9,
+    "topic": "undertone-warm-cool-neutral",
+    "question": "How do I find my skin undertone (warm, cool or neutral)?",
+    "tags": ["colour", "undertone", "skin tone", "warm", "cool"],
+    "answer": "**Finding your undertone**\n\n- **Vein test:** greenish wrist veins → warm; bluish/purple → cool; a mix → neutral.\n- **Metal test:** gold flatters warm, silver flatters cool, both work for neutral.\n- **Sun test:** you tan easily → often warm; you burn first → often cool.\n\n**Then dress to it**\n- **Warm:** olive, rust, camel, cream, warm reds, earthy greens.\n- **Cool:** navy, charcoal, emerald, burgundy, true white, cool blues and pinks.\n- **Neutral:** most shades work; use medium, slightly muted tones."
+  },
+  {
+    "id": 10,
+    "topic": "colour-contrast-palette",
+    "question": "How do I build a colour palette and use contrast?",
+    "tags": ["colour", "palette", "contrast", "coordination"],
+    "answer": "**Building a colour palette**\n\n- **Structure:** roughly 60% neutral base, 30% secondary, 10% accent.\n- **Contrast:** high contrast (dark + light) reads bold and sharp; low contrast (tones close together) reads soft and refined. Match the contrast level to your own colouring and the mood you want.\n- **Reliable combos:** navy + white + tan; charcoal + burgundy; olive + cream; black + camel.\n- **Tip:** limit a single outfit to two or three colours plus a neutral to keep it intentional."
+  },
+  {
+    "id": 11,
+    "topic": "neutral-base-colours",
+    "question": "What are the best neutral colours to build a wardrobe around?",
+    "tags": ["colour", "neutral", "wardrobe", "basics"],
+    "answer": "**Core neutrals that mix effortlessly**\n\n- **Anchors:** navy, charcoal/grey, black, white, and a warm neutral (camel, tan or beige).\n- **Why:** every anchor pairs with every other, so a handful of pieces yields many outfits.\n- **Add one earth tone:** olive or brown extends the palette without clashing.\n- **Then accent:** introduce colour through one item (knit, shirt) or an accessory rather than head-to-toe.\n- **Tip:** buy your outerwear and shoes in neutrals; save colour and pattern for cheaper, easily-swapped layers."
+  },
+  {
+    "id": 12,
+    "topic": "capsule-wardrobe-general",
+    "question": "What are the essentials of a capsule wardrobe?",
+    "tags": ["capsule", "wardrobe", "essentials", "basics", "versatile"],
+    "answer": "**A versatile capsule (adapt to your climate and style)**\n\n- **Tops:** 3–4 well-fitting tees/shirts, 1–2 knits, one crisp button-down.\n- **Layers:** one tailored jacket or blazer, one casual overshirt or cardigan, one weatherproof coat.\n- **Bottoms:** dark straight jeans, tailored trousers, one more casual option (chinos/skirt).\n- **Shoes:** one clean casual (minimal sneaker/loafer) and one dressier leather pair.\n- **Rule:** everything shares a tight neutral palette so any top works with any bottom. Buy fewer, better pieces and tailor them."
+  },
+  {
+    "id": 13,
+    "topic": "job-interview-outfit",
+    "question": "What should I wear to a job interview?",
+    "tags": ["occasion", "interview", "business", "formal", "office"],
+    "answer": "**Dressing for an interview**\n\n- **Read the culture:** dress one notch above the everyday dress code of the company.\n- **Corporate:** a well-fitted suit or blazer with tailored trousers/skirt in navy, charcoal or grey; crisp white or light-blue shirt; clean leather shoes.\n- **Business casual:** tailored trousers or dark denim, a collared shirt or fine knit, a blazer, minimal leather footwear.\n- **Keep it quiet:** low contrast, minimal accessories, nothing distracting.\n- **Tip:** fit and grooming matter more than expense — press everything and polish your shoes the night before."
+  },
+  {
+    "id": 14,
+    "topic": "wedding-guest-attire",
+    "question": "What should I wear as a wedding guest?",
+    "tags": ["occasion", "wedding", "guest", "formal", "dress code"],
+    "answer": "**Wedding-guest dressing**\n\n- **Follow the stated dress code** and the venue formality; when unsure, err slightly dressier.\n- **Daytime/garden:** lighter colours and fabrics — linen or lightweight wool, soft palettes.\n- **Evening/formal:** darker suit or elegant dress, refined fabrics, dress shoes.\n- **Never:** wear white/ivory (reserved for the couple) or overly casual denim/sneakers unless invited.\n- **Tip:** account for the setting — block heels for grass, breathable fabric for heat, a layer for air-conditioned halls."
+  },
+  {
+    "id": 15,
+    "topic": "cocktail-dress-code",
+    "question": "What does cocktail or semi-formal dress code mean?",
+    "tags": ["occasion", "cocktail", "semi-formal", "dress code"],
+    "answer": "**Cocktail / semi-formal**\n\n- **Idea:** polished and festive but short of black tie.\n- **Men:** a dark suit (navy/charcoal) or a blazer with tailored trousers, dress shirt, optional tie, leather shoes.\n- **Women:** a knee-to-midi cocktail dress or an elevated separates combination, refined heels or dressy flats.\n- **Fabrics:** a little sheen or texture reads dressier than flat cotton.\n- **Tip:** one considered accessory (a watch, or statement earrings) lifts the look; keep the rest restrained."
+  },
+  {
+    "id": 16,
+    "topic": "black-tie-dress-code",
+    "question": "What does black tie mean and how do I dress for it?",
+    "tags": ["occasion", "black tie", "formal", "tuxedo", "dress code"],
+    "answer": "**Black tie**\n\n- **Men:** a black (or midnight-blue) tuxedo, white dress shirt, black bow tie, black patent or highly-polished leather shoes.\n- **Women:** a floor-length gown or a very refined dressy midi/cocktail dress, elegant heels and jewellery.\n- **Restraint:** classic and understated beats flashy; let the tailoring do the work.\n- **Black tie optional:** a dark formal suit is acceptable instead of a tuxedo.\n- **Tip:** ensure the tux fits precisely — formalwear exposes poor fit more than anything."
+  },
+  {
+    "id": 17,
+    "topic": "business-casual",
+    "question": "What is business casual and how do I put it together?",
+    "tags": ["occasion", "business casual", "office", "smart"],
+    "answer": "**Business casual**\n\n- **Idea:** professional but without a full suit or tie.\n- **Build it:** tailored trousers or chinos (or a knee-length skirt), a collared shirt, polo or fine-gauge knit, an optional blazer, clean leather shoes or loafers.\n- **Colours:** neutral base with restrained colour; avoid loud prints or distressed denim.\n- **Fit first:** crisp, well-fitted pieces are what make it read professional.\n- **Tip:** a blazer instantly elevates any business-casual base for meetings."
+  },
+  {
+    "id": 18,
+    "topic": "smart-casual",
+    "question": "What is smart casual?",
+    "tags": ["occasion", "smart casual", "versatile"],
+    "answer": "**Smart casual**\n\n- **Idea:** relaxed but put-together — polished pieces worn casually.\n- **Build it:** dark clean denim or chinos, a shirt/polo or knit, an optional unstructured blazer or overshirt, minimal leather sneakers or loafers.\n- **Balance:** pair one dressier item with one casual item (e.g. blazer + tee + clean sneakers).\n- **Avoid:** gym wear, distressed pieces and anything wrinkled.\n- **Tip:** neat footwear and good fit are what separate smart casual from just casual."
+  },
+  {
+    "id": 19,
+    "topic": "hot-weather-fabrics",
+    "question": "What fabrics and clothes are best for hot weather?",
+    "tags": ["fabric", "summer", "hot", "breathable", "climate"],
+    "answer": "**Dressing for heat**\n\n- **Fabrics:** linen, cotton, chambray, seersucker and lightweight wool — breathable and moisture-managing. Avoid heavy synthetics that trap heat.\n- **Fit:** slightly relaxed so air can move; nothing clinging.\n- **Colour:** lighter shades reflect heat; light neutrals and soft tones read cool and seasonal.\n- **Details:** short or rolled sleeves, open weaves, unlined jackets.\n- **Tip:** linen wrinkles by design — embrace it rather than fighting it."
+  },
+  {
+    "id": 20,
+    "topic": "cold-weather-fabrics",
+    "question": "What fabrics and clothes are best for cold weather?",
+    "tags": ["fabric", "winter", "cold", "layering", "climate", "wool"],
+    "answer": "**Dressing for cold**\n\n- **Fabrics:** wool, merino, cashmere, flannel, tweed and down — warm and insulating.\n- **Layer in three:** a base (merino/cotton), a mid layer (knit or fleece), and an outer shell or coat.\n- **Coats:** a wool overcoat dresses up; a padded/technical shell handles wet cold.\n- **Extremities:** a scarf, beanie and gloves conserve the most heat.\n- **Tip:** layers you can remove beat one bulky piece — they adapt to indoor heat and let you fine-tune warmth."
+  },
+  {
+    "id": 21,
+    "topic": "garment-care-basics",
+    "question": "How do I care for and wash my clothes to make them last?",
+    "tags": ["care", "washing", "fabric", "maintenance", "laundry"],
+    "answer": "**Making clothes last**\n\n- **Wash less, cooler:** cold water and fewer washes preserve colour, fit and fibres; air out instead of laundering after every wear.\n- **Sort:** separate lights/darks and turn printed or dark items inside out.\n- **Knits:** wash gently and dry flat — hanging stretches them out of shape.\n- **Tailoring & denim:** air rather than wash frequently; spot-clean when possible.\n- **Storage:** hang structured pieces, fold knits, and use cedar or good garment bags against moths.\n- **Tip:** read the care label first — it dictates temperature and drying."
+  },
+  {
+    "id": 22,
+    "topic": "footwear-formality",
+    "question": "How formal are different types of shoes, and how do I choose?",
+    "tags": ["footwear", "shoes", "formality", "occasion"],
+    "answer": "**Footwear by formality (dressiest to most casual)**\n\n- **Most formal:** black oxfords / patent dress shoes.\n- **Formal–smart:** derbies, brogues, sleek leather loafers, heeled pumps.\n- **Smart casual:** suede loafers, Chelsea boots, minimal white leather sneakers, block-heel boots.\n- **Casual:** canvas sneakers, sandals, chunky trainers.\n\n**Choosing**\n- Match the shoe's formality and colour temperature to the outfit.\n- Fewer, well-kept leather pairs beat many cheap ones.\n- **Tip:** clean, un-scuffed shoes make an entire outfit look more expensive."
+  },
+  {
+    "id": 23,
+    "topic": "belt-shoe-matching",
+    "question": "Do my belt and shoes need to match?",
+    "tags": ["accessories", "belt", "shoes", "leather", "coordination"],
+    "answer": "**Belt and shoe coordination**\n\n- **Classic rule:** match leather belt to leather shoes in colour and finish (black with black, brown with brown).\n- **Metals:** keep buckle, watch and other hardware in the same tone (all silver or all gold) for a cohesive look.\n- **Flexibility:** with casual outfits or non-leather shoes (sneakers, canvas), strict matching isn't required.\n- **Tip:** owning one black and one brown leather belt covers almost every leather-shoe situation."
+  },
+  {
+    "id": 24,
+    "topic": "accessories-minimalism",
+    "question": "How should I use accessories like watches and jewellery?",
+    "tags": ["accessories", "watch", "jewellery", "minimalism", "styling"],
+    "answer": "**Accessorising well**\n\n- **Less, but considered:** one or two intentional pieces read more elevated than many.\n- **Metals:** keep tones consistent (watch, rings, buckle, glasses).\n- **Match the occasion:** a slim leather-strap watch dresses up; chunky or sporty reads casual.\n- **Proportion:** scale accessories to your frame and the outfit's formality.\n- **Tip:** let one accessory be the focal point and keep the rest quiet."
+  },
+  {
+    "id": 25,
+    "topic": "quiet-luxury-old-money",
+    "question": "What is the quiet luxury or old money aesthetic?",
+    "tags": ["aesthetic", "quiet luxury", "old money", "trend", "style"],
+    "answer": "**Quiet luxury / old money**\n\n- **Idea:** understated wealth — quality and fit over logos and trends.\n- **Palette:** navy, cream, camel, grey, white and soft earth tones; little to no branding.\n- **Fabrics:** wool, cashmere, cotton, silk and fine leather; matte, tactile, well-made.\n- **Fit:** precise tailoring, clean lines, nothing flashy.\n- **Pieces:** a good overcoat, cashmere knit, tailored trousers, crisp shirts, loafers, a leather watch.\n- **Tip:** buy fewer, better, timeless pieces and maintain them impeccably."
+  },
+  {
+    "id": 26,
+    "topic": "look-taller",
+    "question": "How can I dress to look taller?",
+    "tags": ["proportion", "taller", "petite", "vertical line", "styling"],
+    "answer": "**Dressing to look taller**\n\n- **Vertical line:** monochrome or tonal outfits (top and bottom in similar shades) elongate the body uninterrupted.\n- **Rise:** high-rise bottoms lengthen the legs; tuck or half-tuck tops to raise the waistline.\n- **Proportion:** keep hems and lengths cropped to your frame — nothing oversized or pooling.\n- **Details:** vertical patterns, V-necks and pointed-toe shoes add length; avoid strong horizontal breaks.\n- **Tip:** matching your shoe or trouser colour to your leg tone visually extends the leg line."
+  },
+  {
+    "id": 27,
+    "topic": "look-slimmer-balanced",
+    "question": "How can I dress to look slimmer or more balanced?",
+    "tags": ["proportion", "slimmer", "balance", "fit", "colour"],
+    "answer": "**Dressing for a leaner, balanced line**\n\n- **Fit over size:** well-fitted pieces flatter far more than tight or oversized ones.\n- **Colour:** darker and tonal outfits recede and streamline; use one clean vertical column of colour.\n- **Structure:** a little tailoring (a defined shoulder, a nipped waist) shapes the silhouette.\n- **Strategic emphasis:** place lighter colours, texture or detail where you want the eye to go.\n- **Tip:** vertical lines, open necklines and a defined waist create length and balance without hiding under baggy layers."
+  },
+  {
+    "id": 28,
+    "topic": "layering-basics",
+    "question": "How do I layer clothes well?",
+    "tags": ["layering", "styling", "seasonal", "fit", "texture"],
+    "answer": "**Layering that looks intentional**\n\n- **Thin to thick:** lighter, closer-fitting layers underneath; structured or heavier pieces on top.\n- **Vary length & texture:** slightly different hems and mixed textures add depth (knit under a coat, shirt under a knit).\n- **Keep the palette tight:** two or three coordinated colours so layers read cohesive, not busy.\n- **Watch the bulk:** each layer should still let the one above close and move comfortably.\n- **Tip:** an open layer (unbuttoned shirt or overcoat) creates a slimming vertical frame."
+  }
+]

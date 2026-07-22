@@ -1,0 +1,13 @@
+# StyleSense AI — RAG dependencies.
+# The core chatbot uses only the Python standard library; these are needed only for
+# the optional Qdrant + local-embedding retrieval layer.
+#
+# Install:  pip install -r requirements.txt
+#
+# qdrant-client provides the Qdrant Cloud client; the [fastembed] extra bundles a
+# small local ONNX embedding model (BAAI/bge-small-en-v1.5, ~130MB on first run),
+# so embeddings are computed on your machine with no embedding-API calls.
+qdrant-client[fastembed]>=1.9.0
+
+# openpyxl reads your own .xlsx knowledge file (KB_XLSX / ingest.py --xlsx).
+openpyxl>=3.1.0
